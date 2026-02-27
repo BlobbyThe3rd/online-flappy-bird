@@ -1,0 +1,1 @@
+# Flappy Bird Online\n\n## Quick Start\n\n```bash\ndocker-compose up\n```\n\nFrontend: http://localhost:3000\nBackend: http://localhost:5000
